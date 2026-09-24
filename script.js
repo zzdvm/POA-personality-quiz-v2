@@ -271,7 +271,7 @@ const characters = {
     desc: "Collaborative, empathetic, and communicative! You value teamwork and social connection. You’ll be the group partner everyone wants in business class!"
   },
   D: {
-    title: "The Chill Capybara 🐹",
+    title: "The Chill Hamster 🐹",
     emoji: "🐹",
     desc: "Cool, calm, and collected under pressure! Even when deadlines loom, you keep your composure. Your relaxed mindset keeps stress low when crunching big numbers!"
   }

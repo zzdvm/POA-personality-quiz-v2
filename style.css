@@ -118,8 +118,16 @@ p {
 .intro-animals {
   font-size: 2.8rem;
   margin: 24px 0;
-  letter-spacing: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 28px;
 }
+
+.intro-animals span {
+  line-height: 1;
+}
+
 
 /* Buttons */
 .btn {
@@ -312,3 +320,5 @@ p {
   from { opacity: 0; transform: translateY(6px); }
   to { opacity: 1; transform: translateY(0); }
 }
+
+
